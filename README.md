@@ -6,7 +6,7 @@
 * Fork this repo
 * Clone it
 * Do you work
-* `git add . -A && git commit -m "solution"`
+* `git add . -A` and `git commit -m "solution"`
 * Then `git push origin master`
 
 ## Helpful Concepts
