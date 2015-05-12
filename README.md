@@ -48,7 +48,7 @@ You'll need the following routes:
 
 ### Bonus
 
-Because using an array index doesn't obscure how we are looking up the submitted links our site is vulnerable. Nothing is stopping someone from going through every index to see what links have been submitted.
+Because using an array index doesn't obscure how we are looking up the submitted links, our site is vulnerable. Nothing is stopping someone from going through every index to see what links have been submitted.
 
 ```
 localhost:3000/urls/0
